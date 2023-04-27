@@ -48,7 +48,7 @@ public class Semana05Ejercicio03 {
             System.out.println("\tREPORTE DE PAGO\n");
             System.out.printf("El monto de la moto es: S/. %.2f %n", monto);
             System.out.printf("El descuento de la moto es: S/. %.2f %n", descuento);
-            System.out.printf("El monto fina de la moto es: S/. %.2f %n", montoFinal);
+            System.out.printf("El monto final de la moto es: S/. %.2f %n", montoFinal);
         }
     }
     
