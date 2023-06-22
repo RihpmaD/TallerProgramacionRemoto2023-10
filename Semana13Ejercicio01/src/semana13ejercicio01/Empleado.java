@@ -45,7 +45,7 @@ public class Empleado {
                 "\n\tdni=" + dni + 
                 "\n\tedad=" + edad + 
                 "\n\tcasado=" + casado + 
-                "\n\tsalario=" + salario +"\n\t\t\t"+ '}';
+                "\n\tsalario=" + salario + "\n\t\t\t"+ '}';
     }
     
     
